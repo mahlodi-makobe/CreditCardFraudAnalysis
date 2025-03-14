@@ -86,5 +86,5 @@ By implementing unsupervised learning algorithms, we successfully identified pot
 ## How to Use This Repository
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/mahlodi-makobe/credit-card-fraud-detection.git
    cd credit-card-fraud-detection
